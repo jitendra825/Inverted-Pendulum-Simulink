@@ -1,4 +1,6 @@
 # Inverted-Pendulum-Simulink
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/88198964/127701322-0f233ddf-db56-448d-987b-b6f9791bdc98.gif)
+
 This is Simulation of Inverted Pendulum Sytem in MATLAB Simulink
 BY JITENDRA SINGH
 TO RUN SIMULATION, FIRST:
